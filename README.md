@@ -156,4 +156,4 @@ In this lesson, we explored the new `class` syntax of ES2015 and how to create a
 + [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 + [MDN: Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-classes-readme'>Classes in JS</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Using Classes in Javascript</p>
