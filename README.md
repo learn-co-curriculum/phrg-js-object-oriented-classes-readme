@@ -151,6 +151,9 @@ If you look at the line `super.sayHello()`, what we're doing there is calling th
 
 In this lesson, we explored the new `class` syntax of ES2015 and how to create and extend classes using it.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-object-oriented-classes-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-object-oriented-classes-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 + [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
